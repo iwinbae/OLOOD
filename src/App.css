@@ -23,7 +23,9 @@
 .App-link {
   color: #61dafb;
 }
-
+.family-picture {
+  border-radius: 50%;
+}
 .nav-bar {
   margin-top: 10px;
   margin-bottom: 100px;

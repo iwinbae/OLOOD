@@ -52,5 +52,5 @@ function App() {
 export default App;
 
 function Home() {
-  return <img src={familypic}></img>;
+  return <img className="family-picture" src={familypic}></img>;
 }
