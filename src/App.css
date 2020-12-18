@@ -1,7 +1,9 @@
 .App {
   text-align: center;
   background-color: #140101;
+  background-image: url("./images/bg.jpg");
   min-height: 1000px;
+  background-repeat: repeat;
 }
 
 .App-header {
@@ -36,9 +38,8 @@
 
 footer {
   margin-top: 100px;
-  height: 100px;
+  height: 80px;
   color: white;
-  background-color: #140101;
 }
 
 .name {
@@ -49,17 +50,11 @@ footer {
 .member-pic {
   width: 543px;
 }
+.king-pic {
+  width: 1000px;
+}
 
 .gang-box {
   margin: 20px;
   display: inline-block;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

@@ -1,4 +1,4 @@
-import familypic from "./images/olood_gang1.JPG";
+import familypic from "./images/olood_gang1.jpg";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Gang from "./Gang";
