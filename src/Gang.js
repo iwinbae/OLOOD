@@ -21,7 +21,7 @@ function Gang() {
       <Members name="An" pic={an} />
       <Members name="Foko" pic={fok} />
       <Members name="Boko" pic={bok} />
-      <p className="name">King aka. Chú Nhà</p>
+      <p className="name">Chú Nhà</p>
       <img className="king-pic" src={king}></img>
     </div>
   );

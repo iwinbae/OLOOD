@@ -1,4 +1,4 @@
-import familypic from "./images/olood_gang1.jpg";
+import familypic from "./images/olood_gang1.JPG";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Gang from "./Gang";
@@ -12,8 +12,9 @@ function App() {
         </header>
 
         <nav className="nav-bar">
-          <Link to="/connect"> CONNECT </Link>/<Link to="/gang"> GANG </Link>/
-          <Link to="/merch"> MERCH </Link>/<Link to="/work"> WORK </Link>
+          <Link to="/connect"> CONNECT </Link>/
+          <Link to="/gang"> EM TRAIS </Link>/<Link to="/merch"> MERCH </Link>/
+          <Link to="/work"> WORK </Link>
         </nav>
 
         <main>
