@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Router>
         <header className="App-header">
-          <Link to="/home">OLOOD.</Link>
+          <Link to="/">OLOOD.</Link>
         </header>
 
         <nav className="nav-bar">
@@ -24,7 +24,7 @@ function App() {
               <Connect />
             </Route>{" "}
   */}
-            <Route path="/home">
+            <Route path="/">
               <Home />
             </Route>
 
