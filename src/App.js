@@ -24,7 +24,7 @@ function App() {
               <Connect />
             </Route>{" "}
   */}
-            <Route path="/">
+            <Route path="/home">
               <Home />
             </Route>
 
