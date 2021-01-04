@@ -1,6 +1,6 @@
 {
   "name": "olood_webpage",
-  "homepage": "https://olood.club",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
